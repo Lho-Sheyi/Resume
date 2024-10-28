@@ -1,0 +1,48 @@
+html{
+    background-color: rgb(228, 184, 120);
+    text-align: left;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: 15px;
+    color: rgb(19, 11, 54);
+    text-align: center; 
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: medium;
+}
+.pic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    text-decoration: underline;
+    font-size: small;
+}
+
+a{
+    color: red;
+}
+
+footer{
+    font-size: smaller;
+    text-align: center;
+}
+
+#center{
+    text-align: center;
+}
+
+a{
+    background-color: rgb(247, 104, 247);
+    color: black;
+}
